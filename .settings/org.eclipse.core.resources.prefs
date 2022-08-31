@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/categoryServlet.java=UTF-8
+encoding//src/main/java/controller/loginServlet.java=UTF-8
+encoding//src/main/java/controller/productServlet.java=UTF-8
+encoding//src/main/java/controller/qLyUserServlet.java=UTF-8
+encoding//src/main/webapp/views/admin/categories/edit.jsp=UTF-8
+encoding//src/main/webapp/views/admin/product/create.jsp=UTF-8
+encoding//src/main/webapp/views/admin/users/index.jsp=UTF-8
+encoding//src/main/webapp/views/login.jsp=UTF-8

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ASS_PH17480:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ASS_PH17480</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ASS_PH17480-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ASS_PH17480:war exploded" />
+    </root>
+  </artifact>
+</component>
